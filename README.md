@@ -1,15 +1,8 @@
-# Renita IT Consulting Website
+# Renita IT Consulting Website - Version 2
 
-This is a simple static website for Renita IT Consulting.
+Upload/replace these items in your GitHub repository root:
+- index.html
+- styles.css
+- assets folder
 
-## Files
-- `index.html` - main website page
-- `styles.css` - website styling
-
-## Cheapest deployment options
-1. Cloudflare Pages
-2. GitHub Pages
-3. Netlify free plan
-
-## Before deploying
-Replace `info@renitaitconsulting.com` in `index.html` with your real business email.
+GitHub Pages will redeploy automatically.
