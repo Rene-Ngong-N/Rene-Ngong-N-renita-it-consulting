@@ -1,18 +1,8 @@
-# Renita IT Consulting Website - Version 2.2 Visual
+# Renita IT Consulting Website - Version 2.2 Fix
 
-This version upgrades the slide-style design instead of replacing it.
-
-Included updates:
-- Keeps the strong Version 2 visual presentation style
-- Adds floating contact bar
-- Adds email: renitallc@outlook.com
-- Adds phone: +1 (980) 521-0070
-- Adds Windows PC & MacBook upgrade services
-- Adds technology stack section
-- Adds recent project areas
-- Adds final contact slide
-
-Upload/replace in GitHub:
-- index.html
-- styles.css
-- assets folder
+Fixes:
+- Hero/first page overlap corrected
+- Request Consultation now scrolls to Contact instead of opening a blank mail page
+- Floating contact bar now uses Contact and Call buttons
+- Email remains renitallc@outlook.com
+- Phone remains +1 (980) 521-0070
