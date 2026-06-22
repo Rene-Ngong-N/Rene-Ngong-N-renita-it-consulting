@@ -1,7 +1,9 @@
-# Renita IT Consulting Website - Version 2.2 Desktop Fix
+# Renita IT Consulting LLC Website - Version 3
 
-Fixes:
-- Laptop/desktop hero image no longer crops badly
-- First slide displays fully using object-fit: contain on desktop
-- Hero height adjusted for laptop screens
-- Floating buttons remain but are less disruptive
+Version 3 updates:
+- Broader positioning beyond DevOps
+- Cloud Architecture, Platform Engineering, Data Engineering, Application Development, Database Solutions, Automation, and IT Support
+- Removed Azure-specific positioning and replaced with Other Cloud-Native Platforms
+- Added free starter website/application prototype offer
+- Added expanded open-source and enterprise tools
+- Worldwide service availability with USA small business contract focus
