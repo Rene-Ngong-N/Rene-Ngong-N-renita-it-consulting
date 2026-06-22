@@ -1,9 +1,9 @@
-# Renita IT Consulting LLC Website - Version 3
+# Renita IT Consulting Website - Version 3.1
 
-Version 3 updates:
-- Broader positioning beyond DevOps
-- Cloud Architecture, Platform Engineering, Data Engineering, Application Development, Database Solutions, Automation, and IT Support
-- Removed Azure-specific positioning and replaced with Other Cloud-Native Platforms
-- Added free starter website/application prototype offer
-- Added expanded open-source and enterprise tools
-- Worldwide service availability with USA small business contract focus
+Updates:
+- Public-facing name cleaned up to Renita IT Consulting
+- Legal name retained mainly in footer
+- Contact heading changed to Contact Renita IT Consulting
+- Hero wording changed to Technology Solutions for Businesses Worldwide
+- Removed narrow USA-only wording
+- Added Free Consultation and Free Starter Prototype badges
